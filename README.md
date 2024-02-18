@@ -1,13 +1,11 @@
 # Projeto Agendamento aprimorado de Reuniões
 
-- Repositório para guardar o projeto que está sendo desenvolvido atrelado a participação da turma EE873 - 2023/2 de Engenharia de Software (UFRJ).
+## Descrição
 
-Obs.: As informações do Projeto está em formato de Wiki.
+Repositório para guardar o projeto desenvolvido na turma de Engenharia de Software (UFRJ).
 
-## Partes Interessadas
+## Informações
 
-Link para a Planilha: https://docs.google.com/spreadsheets/d/1O_mlUFZX6UDOAc1_RtBfrQVxFztOI57MK8lv7tJEZbM/edit#gid=1792208243
+Todas informações do Projeto está na Wiki. Acesse diretamente ou através do link abaixo:
 
-## Histórias do Usuário
-
-Link para a planilha: https://docs.google.com/spreadsheets/d/1O_mlUFZX6UDOAc1_RtBfrQVxFztOI57MK8lv7tJEZbM/edit#gid=0
+Link: https://github.com/pvRosendo/agendamento-aprimorado-de-reunioes/wiki
